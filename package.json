@@ -9,7 +9,7 @@
 		"http": "^0.0.0",
 		"path": "^0.4.9",
 		"ejs": "^1.0.0",
-		"sequelize": "1.7.10",
+		"sequelize": "5.21.2",
 		"mysql": "2.4.3",
 		"method-override": "2.1.3"
 	}
